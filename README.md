@@ -1,2 +1,2 @@
-# wiki
-Internal Baby Monitor Simulator wiki.
+# Shared Wiki
+> https://github.com/Baby-Monitor-Simulator/wiki/wiki
